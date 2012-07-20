@@ -10,7 +10,8 @@ whu_top10
 `ruby whu.rb`
 
 ### Screenshot
-![whu_top10_screenshot](http://ww1.sinaimg.cn/large/620092a9jw1dv2d6rb0l8j.jpg)
+![whu_top10_screenshot_0720](http://ww4.sinaimg.cn/large/620092a9jw1dv33oo2nf2j.jpg)
+![whu_top10_screenshot_0719](http://ww1.sinaimg.cn/large/620092a9jw1dv2d6rb0l8j.jpg)
 
 ### Twitter
 [fanweixiao](https://twitter.com/fanweixiao)
