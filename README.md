@@ -22,3 +22,8 @@ whu_top10
 ### Weibo
 [维生素CC](http://weibo.com/fanweixiao)
 
+### change log
+*v1.0.1*
+存储文件名按照mm-dd-hh-mm-sequenceNumber-imageId.jpg格式保存，其中sequenceNumber为当前排名，imageId为该图片的名称
+
+
