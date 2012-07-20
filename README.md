@@ -12,6 +12,9 @@ whu_top10
 ### Screenshot
 ![whu_top10_screenshot](http://ww1.sinaimg.cn/large/620092a9jw1dv2d6rb0l8j.jpg)
 
-### Follow me
+### Twitter
+[fanweixiao](https://twitter.com/fanweixiao)
+
+### Weibo
 [维生素CC](http://weibo.com/fanweixiao)
 
