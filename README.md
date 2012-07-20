@@ -1,6 +1,9 @@
 whu_top10
 =========
+### 起初，有了这个网站
+[http://whuface.com/](http://whuface.com/)
 
+### 然后，有了这个project
 自动下载whufacemesh.com上top 10 girls的图片哦，谁没事会比较这些个姑娘们啊，活了30年了，第一次见这么无聊的人。。。
 
 ### Gem require 
